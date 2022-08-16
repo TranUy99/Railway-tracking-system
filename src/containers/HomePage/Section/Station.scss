@@ -1,0 +1,64 @@
+// .station-section {
+//     height: 440px;
+    
+//     .station-container{
+//         margin: 0 100px;
+//         display: flex;
+//         flex-direction: column;
+
+
+//         .station-header{
+//             height: 60px;
+//             // border: 1px solid green;
+//             margin-bottom: 30px;
+//             padding-top: 30px;
+
+//             .title-section{
+//                 font-size: 22px;
+//                 font-weight: 600;
+//             }
+//         }
+//     }
+// }
+
+.station-customize {
+    .bg-image1 {
+        height: 278px;
+        width: 380px;
+        background: url('../../../assets/stationimg/station1.jpg');
+        background-position: center center;
+        background-size: cover;
+        background-color: #eee;
+    }
+    .bg-image2 {
+        height: 278px;
+        width: 380px;
+        background: url('../../../assets/stationimg/station2.jpg');
+        background-position: center center;
+        background-size: cover;
+        background-color: #eee;
+    }
+    .bg-image3 {
+        height: 278px;
+        width: 380px;
+        background: url('../../../assets/stationimg/station3.jpg');
+
+        background-position: center center;
+        background-size: cover;
+        background-color: #eee;
+    }
+    .bg-image4 {
+        height: 278px;
+        width: 380px;
+        background: url('../../../assets/stationimg/station4.jpg');
+        background-position: center center;
+        background-size: cover;
+        background-color: #eee;
+    }
+}
+
+.btn-buy {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+}

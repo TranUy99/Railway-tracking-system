@@ -1,0 +1,96 @@
+.service-section {
+    height: 440px;
+    background: #f5f5f5;
+    
+    .service-container{
+        margin: 0 100px;
+        display: flex;
+        flex-direction: column;
+
+
+        .service-header{
+            height: 60px;
+            // border: 1px solid green;
+            margin-bottom: 30px;
+            padding-top: 30px;
+
+            .title-section{
+                font-size: 22px;
+                font-weight: 600;
+            }
+        }
+
+        .service-body {
+            
+            .service-customize {
+                .bg-image1 {
+                    height: 278px;
+                    width: 380px;
+                    background: url('../../../assets/servicesimg/serv1.jpg');
+                    background-position: center center;
+                    background-size: cover;
+                    background-color: #eee;
+                }
+                .bg-image2 {
+                    height: 278px;
+                    width: 380px;
+                    background: url('../../../assets/servicesimg/serv2.jpg');
+                    background-position: center center;
+                    background-size: cover;
+                    background-color: #eee;
+                }
+                .bg-image3 {
+                    height: 278px;
+                    width: 380px;
+                    background: url('../../../assets/servicesimg/serv3.jpg');
+                    background-position: center center;
+                    background-size: cover;
+                    background-color: #eee;
+                }
+                .bg-image4 {
+                    height: 278px;
+                    width: 380px;
+                    background: url('../../../assets/servicesimg/serv4.jpg');
+                    background-position: center center;
+                    background-size: cover;
+                    background-color: #eee;
+                }
+                .bg-image5 {
+                    height: 278px;
+                    width: 380px;
+                    background: url('../../../assets/servicesimg/serv5.jpg');
+                    background-position: center center;
+                    background-size: cover;
+                    background-color: #eee;
+                }
+                .bg-image6 {
+                    height: 278px;
+                    width: 380px;
+                    background: url('../../../assets/servicesimg/serv6.jpg');
+                    background-position: center center;
+                    background-size: cover;
+                    background-color: #eee;
+                }
+                .bg-image7 {
+                    height: 278px;
+                    width: 380px;
+                    background: url('../../../assets/servicesimg/serv7.jpg');
+                    background-position: center center;
+                    background-size: cover;
+                    background-color: #eee;
+                }
+                .bg-image8 {
+                    height: 278px;
+                    width: 380px;
+                    background: url('../../../assets/servicesimg/serv8.jpg');
+                    background-position: center center;
+                    background-size: cover;
+                    background-color: #eee;
+                }
+            }
+    }
+} 
+}
+
+// reset slick slider css
+
